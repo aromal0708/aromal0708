@@ -24,9 +24,7 @@
 
 Here are a few projects that highlight my current skill set:
 
-- 🎬 **Netflix Clone** – A React-based streaming app UI  
-- 📋 **To-Do App** – Simple and clean task manager  
-- 🌦️ **Weather App** – Real-time data using OpenWeather API  
+- 🎬 **Netflix Clone** – A React-based streaming app UI   
 - ❓ **Quiz App** – Interactive quiz with JavaScript  
 - 🧠 **Smart Photo Retrieval System** – ML project using DeepFace + Flask  
 - 🚗 **Advanced Driver Assistance System** – YOLO + TensorFlow for driver alertness  
@@ -48,7 +46,7 @@ Here are a few projects that highlight my current skill set:
 
 - 📧 Email: [aromalsunil711@gmail.com](mailto:aromalsunil711@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/aromal-sunil](https://linkedin.com/in/aromal-sunil)  
-- 📱 Phone: +91 9951809558  
+- 📱 Phone: +91 9961809558  
 
 ---
 
